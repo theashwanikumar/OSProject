@@ -47,5 +47,5 @@ The project aims to design and implement a CPU scheduling algorithm that optimiz
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-### Feel free to contact me via GitHub Issues or email at works.ashwanikumar@gmail.com.
+#### Feel free to contact me via GitHub Issues or email at works.ashwanikumar@gmail.com.
 
